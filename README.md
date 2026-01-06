@@ -1,2 +1,2 @@
 # GalaxyDynamiX
-To plot generalized Faber-Jackson and Tully-Fisher relations for velocity dispersions and rotation curves.
+To plot generalized baryonic Faber-Jackson and Tully-Fisher relations of velocity dispersions and rotation curves.
